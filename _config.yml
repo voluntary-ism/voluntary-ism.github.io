@@ -24,7 +24,8 @@ url: "https://voluntary-ism.github.io/" # the base hostname & protocol for your 
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+theme: jekyll-theme-monospace
 plugins:
   - jekyll-feed
 
